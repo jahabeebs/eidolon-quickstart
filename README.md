@@ -34,7 +34,7 @@ Use the current project version of Python
 poetry env use python3.11
 ```
 
-Download the Ediolon CLI
+Download the Eidolon CLI
 ```bash
 pip install 'eidolon-ai-client[cli]'
 ```
