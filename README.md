@@ -48,7 +48,7 @@ export PID=$(eidolon-cli processes create --agent hello_world)
 eidolon-cli actions converse --process-id $PID --body "Hi! I made you"
 ```
 
-On your terminal, you should see the response from the agent.
+In your terminal, you should see the response from the agent.
 
 ### Troubleshooting
 
